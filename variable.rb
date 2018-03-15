@@ -1,6 +1,5 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
-greeting = "Hello World"
 # Code your solution in variable.rb
 describe "./variable.rb" do
 
